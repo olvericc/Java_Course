@@ -6,8 +6,8 @@ public class Main {
 
         while ( x < 60 ) {
             System.out.println("x: " + x);
-            x += 
+            x *= 2;
+            y += 10;
         }
-
     }
 }
