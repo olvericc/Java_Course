@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Course.iml" filepath="$PROJECT_DIR$/.idea/Java_Course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionalStructure/conditionalStructure.iml" filepath="$PROJECT_DIR$/conditionalStructure/conditionalStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionalStructureSwitchCase/conditionalStructureSwitchCase.iml" filepath="$PROJECT_DIR$/conditionalStructureSwitchCase/conditionalStructureSwitchCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/countingWithFor/countingWithFor.iml" filepath="$PROJECT_DIR$/countingWithFor/countingWithFor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cumulativeAssignment/cumulativeAssignment.iml" filepath="$PROJECT_DIR$/cumulativeAssignment/cumulativeAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataInputExample1/dataInputExample1.iml" filepath="$PROJECT_DIR$/dataInputExample1/dataInputExample1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataInputExample2/dataInputExample2.iml" filepath="$PROJECT_DIR$/dataInputExample2/dataInputExample2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataInputExample3/dataInputExample3.iml" filepath="$PROJECT_DIR$/dataInputExample3/dataInputExample3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataInputExample4/dataInputExample4.iml" filepath="$PROJECT_DIR$/dataInputExample4/dataInputExample4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataInputExample5/dataInputExample5.iml" filepath="$PROJECT_DIR$/dataInputExample5/dataInputExample5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataInputExample6/dataInputExample6.iml" filepath="$PROJECT_DIR$/dataInputExample6/dataInputExample6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataOutputExample1/dataOutputExample1.iml" filepath="$PROJECT_DIR$/dataOutputExample1/dataOutputExample1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataOutputExample2/dataOutputExample2.iml" filepath="$PROJECT_DIR$/dataOutputExample2/dataOutputExample2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataOutputExample3/dataOutputExample3.iml" filepath="$PROJECT_DIR$/dataOutputExample3/dataOutputExample3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataOutputExample4/dataOutputExample4.iml" filepath="$PROJECT_DIR$/dataOutputExample4/dataOutputExample4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataOutputExample5/dataOutputExample5.iml" filepath="$PROJECT_DIR$/dataOutputExample5/dataOutputExample5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataOutputExample6/dataOutputExample6.iml" filepath="$PROJECT_DIR$/dataOutputExample6/dataOutputExample6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstFixationExercise/firstFixationExercise.iml" filepath="$PROJECT_DIR$/firstFixationExercise/firstFixationExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mathFunctions/mathFunctions.iml" filepath="$PROJECT_DIR$/mathFunctions/mathFunctions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problemExample1RepetitiveStru/problemExample1RepetitiveStru.iml" filepath="$PROJECT_DIR$/problemExample1RepetitiveStru/problemExample1RepetitiveStru.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problemExample2RepetitiveStru/problemExample2RepetitiveStru.iml" filepath="$PROJECT_DIR$/problemExample2RepetitiveStru/problemExample2RepetitiveStru.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project1/project1.iml" filepath="$PROJECT_DIR$/project1/project1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repetitiveStructureTableTest/repetitiveStructureTableTest.iml" filepath="$PROJECT_DIR$/repetitiveStructureTableTest/repetitiveStructureTableTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repetitiveStructureTableTest2/repetitiveStructureTableTest2.iml" filepath="$PROJECT_DIR$/repetitiveStructureTableTest2/repetitiveStructureTableTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repetitiveStructureTableTest3/repetitiveStructureTableTest3.iml" filepath="$PROJECT_DIR$/repetitiveStructureTableTest3/repetitiveStructureTableTest3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repetitiveStructureTableTest4/repetitiveStructureTableTest4.iml" filepath="$PROJECT_DIR$/repetitiveStructureTableTest4/repetitiveStructureTableTest4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repetitiveStructureTableTest5/repetitiveStructureTableTest5.iml" filepath="$PROJECT_DIR$/repetitiveStructureTableTest5/repetitiveStructureTableTest5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repetitiveStructureTableTest6/repetitiveStructureTableTest6.iml" filepath="$PROJECT_DIR$/repetitiveStructureTableTest6/repetitiveStructureTableTest6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repetitiveStructureTableTest7/repetitiveStructureTableTest7.iml" filepath="$PROJECT_DIR$/repetitiveStructureTableTest7/repetitiveStructureTableTest7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repetitiveStructureTableTest8/repetitiveStructureTableTest8.iml" filepath="$PROJECT_DIR$/repetitiveStructureTableTest8/repetitiveStructureTableTest8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scopeAndInitialization/scopeAndInitialization.iml" filepath="$PROJECT_DIR$/scopeAndInitialization/scopeAndInitialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sequentialStructure/sequentialStructure.iml" filepath="$PROJECT_DIR$/sequentialStructure/sequentialStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ternaryConditionalExpression/ternaryConditionalExpression.iml" filepath="$PROJECT_DIR$/ternaryConditionalExpression/ternaryConditionalExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testingDebug/testingDebug.iml" filepath="$PROJECT_DIR$/testingDebug/testingDebug.iml" />
+    </modules>
+  </component>
+</project>
