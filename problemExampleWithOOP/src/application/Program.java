@@ -26,12 +26,8 @@ public class Program {
         t2.b = sc.nextDouble();
         t2.c = sc.nextDouble();
 
-        double perimeter = (t1.a + t1.b + t1.c) / 2.0;
-
-        double areaT1 = Math.sqrt(perimeter * (perimeter - t1.a) * (perimeter - t1.b) * (perimeter - t1.c));
-
-        perimeter = (t2.a + t2.b + t2.c) / 2.0;
-        double areaT2 = Math.sqrt(perimeter * (perimeter - t2.a) * (perimeter - t2.b) * (perimeter - t2.c));
+        double areaT1 = t1.area();
+        double areaT2 = t2.area();
 
         System.out.printf("Triangle 1 area: %.4f%n", areaT1);
         System.out.printf("Triangle 2 area: %.4f%n", areaT2);
